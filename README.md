@@ -1,6 +1,23 @@
 
 # Assessing User Attitude and Emergence of CryptoAssets
 
+<!-- TABLE OF CONTENTS -->
+<details open="open">
+  <summary>Table of Contents</summary>
+  <ol>
+    <li>
+      <a href="# Assessing-User-Attitude-and-Emergence-of-CryptoAssets">Introduction</a>
+    </li>    
+    <li><a href="#visuals">Visuals</a></li>   
+    <li><a href="#usage">Usage</a></li>
+    <li><a href="#support">Support</a></li>
+    <li><a href="#roadmap">Roadmap</a></li>
+    <li><a href="#acknowledgements">Acknowledgements</a></li>
+    <li><a href="#project-status">Project Status</a></li>
+    <li><a href="#author">Author</a></li>
+  </ol>
+</details>
+
 One of the most recent developments in the world-wide technical environment for the virtual community has been
 noticed in terms of transacting and settling through Cryptoassets,
 which are a type of virtual currency. Because cryptoassets research is progressing, it is critical to appraise existing cryptoassets
@@ -79,7 +96,7 @@ cryptoassets.
 - #### Sprint 2 (Future Enhancement)
     Planned to cover more ground and update questionnaire scope
   
-## Authors
+## Author
 
 - [@KaranHYFT](https://github.com/KaranHYFT)
 

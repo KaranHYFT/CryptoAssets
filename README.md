@@ -19,6 +19,8 @@ survey responses from telegram, reddit and twitter community
 and, offline questionnaire with friends and relatives from crypto
 space.
 
+![](https://github.com/KaranHYFT/CryptoAssets/blob/main/intro1.png)
+
 ## Badges
 
 ![Survey1](https://img.shields.io/badge/Survey-Active-brightgreen)
@@ -27,11 +29,27 @@ space.
 
 ## Visuals
 
-![](https://github.com/KaranHYFT/CryptoAssets/blob/main/intro1.png)
+- #### Block Chain Workflow Diagram
+![](https://github.com/KaranHYFT/CryptoAssets/blob/main/intro2.png)
+
+- #### Approach 2 : Flow Diagram
+![](https://github.com/KaranHYFT/CryptoAssets/blob/main/cryptoacceptancemodel.PNG)
 
 ## Usage
 
+The main contribution of this paper we investigate several factors behind choosing a cryptoassets to mine or use through conducting an
+active online survey and a passive social platform research
+directed at people who are currently using or mining such
+currencies. The key contribution of this study is that, unlike
+most prior papers on cryptoassets, it focuses on people and
+their opinions about it rather than the technology and technical
+components of it. The results obtained from this study will greatly help
+in predicting how successful an asset can be and grant us a
+deeper understanding of human preferences when it comes to
+cryptoassets.
 
+![](https://github.com/KaranHYFT/CryptoAssets/blob/main/discussion1.png)
+![](https://github.com/KaranHYFT/CryptoAssets/blob/main/discussion2.png)
 
 ## Support
 
